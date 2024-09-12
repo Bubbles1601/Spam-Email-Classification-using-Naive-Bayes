@@ -1,0 +1,1 @@
+This project classifies emails as spam/not spam using Naive Bayes. It leverages NLP techniques for data preprocessing, feature extraction, and model training. The repository includes code for data prep, training, evaluation, and metrics. Contributions are welcome to improve the model's accuracy and efficiency.
